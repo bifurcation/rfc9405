@@ -1,8 +1,6 @@
-AIPP=draft-chatgpt-aipp
-AISAP=draft-chatgpt-aisap
-AISDP=draft-chatgpt-aisdp
+RFC=rfc9405
 
-all: ${AIPP}.html ${AISAP}.html ${AISDP}.html ${AIPP}.xml ${AISAP}.xml ${AISDP}.xml
+all: ${RFC}.html ${RFC}.xml
 
 %.html: %.xml
 	xml2rfc --html $<
