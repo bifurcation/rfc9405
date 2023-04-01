@@ -1,6 +1,6 @@
 # AI-generated April 1 RFC candidates
 
-The Markdown file `draft-chatgpt-aisdp.md` is what became RFC 9345.  The RFC
+The Markdown file `draft-chatgpt-aisdp.md` is what became RFC 9405.  The RFC
 Editor's edits are not reflected here.
 
 To turn the documents here into pretty HTML files:
