@@ -1,9 +1,10 @@
-# AI-generated April 1 RFC candidates
+# RFC 9405: An AI-generated April 1 RFC
 
-The Markdown file `draft-chatgpt-aisdp.md` is what became RFC 9405.  The RFC
-Editor's edits are not reflected here.
+The Markdown file `rfc9403.md` contains the contents that became RFC 9405.  Two
+other documents submitted to the RFC editor as alternatives are in the
+`alternatives` directory.
 
-To turn the documents here into pretty HTML files:
+To build a nice HTML file:
 
 ```
 > gem install kramdown-rfc
